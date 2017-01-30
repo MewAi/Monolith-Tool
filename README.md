@@ -2,8 +2,15 @@
 とあるゲームのミニゲームとなっている「モノリス」をプレイ補助してSランクを目指すツールです。  
 
 ツール起動は[こちら](https://black-wolfwood.github.io/Monolith-Tool/)から    
+使い方は[こちら](https://github.com/Black-Wolfwood/Monolith-Tool/issues/1)から    
+
 Webブラウザで動くツールになっています。  
 (Chrome,FireFox & Windows,MacOS 両方確認済。)  
+
+- ツールは「Unity Web Player」で作られています。
+- 「Unity Web Player」のインストールを促されたらインストールをしてください。
+- あれ、画面が固まって起動しない？ > 少し時間かかるのでページ開いたままお待ちを。
+
 必ずSランククリア出来るとは言ってない。  
 少しでもクリアの助けになれば、と思う。 
 
